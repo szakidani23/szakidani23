@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szakidani23 - Daniel Szakaly
 - 👀 I’m interested in Frontend Development, I love making stunning websites : ) 
-- 🌱 I’m currently learning Javascript and advanced CSS.
+- 🌱 I’m currently learning JS, TS, Angular.
 - 💞️ I’m looking to collaborate on some bigger/smaller website development projects.
 - 📫 How to reach me : szakidani26@gmail.com
 - 💭 I speak Hungarian, English and German. Feel free to contact me.
